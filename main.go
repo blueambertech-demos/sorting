@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/blueambertech/sorting-demo/sorting"
+	"github.com/blueambertech-demos/sorting/sorting"
 )
 
 func main() {
